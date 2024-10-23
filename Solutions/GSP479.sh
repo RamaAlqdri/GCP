@@ -295,7 +295,7 @@ spec:
     - containerPort: 80
 EOF
 
-./delete.sh -c my-cluster-1
+
 
 
 echo "projects/${PROJECT_ID}/attestors/${ATTESTOR}" # Copy this output to your copy/paste buffer
